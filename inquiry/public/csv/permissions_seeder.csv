@@ -1,0 +1,104 @@
+id,name,module_id,display_name,description,is_protected
+
+1,adminpanel,1,"Admin Panel","Admin Panel",1
+2,dashboard,2,Dashboard,Dashboard,1
+3,users.index,3,"List Users","List Roles",1
+4,users.create,3,"Create Users","Create Users",1
+5,users.show,3,"View User","View User",1
+6,users.edit,3,"Edit User","Edit User",1
+7,users.destroy,3,"Delete User","Delete User",1
+8,roles.index,4,"List Roles","List Roles",1
+9,roles.create,4,"Create Role","Create Role",1
+10,roles.show,4,"View Role","View Role",1
+11,roles.edit,4,"Edit Role","Edit Role",1
+12,roles.destroy,4,"Delete Role","Delete Role",1
+13,permissions.index,5,"List Permissions","List Permissions",1
+14,permissions.create,5,"Create Permission","Create Permission",1
+15,permissions.show,5,"View Permission","View Permission",1
+16,permissions.edit,5,"Edit Permission","Edit Permission",1
+17,permissions.destroy,5,"Delete Permission","Delete Permission",1
+18,modules.index,6,"List Modules","List Modules",1
+19,modules.create,6,"Create Module","Create Module",1
+20,modules.show,6,"View Module","View Module",1
+21,modules.edit,6,"Edit Module","Edit Module",1
+22,modules.destroy,6,"Delete Module","Delete Module",1
+23,languages.index,7,"List Languages","List Languages",1
+24,languages.create,7,"Create Languages","Create Languages",1
+25,languages.show,7,"View Languages","View Languages",1
+26,languages.edit,7,"Edit Languages","Edit Languages",1
+27,languages.destroy,7,"Delete Languages","Delete Languages",1
+28,pages.index,8,"List Pages","List Pages",1
+29,pages.create,8,"Create Pages","Create Pages",1
+30,pages.show,8,"View Pages","View Pages",1
+31,pages.edit,8,"Edit Pages","Edit Pages",1
+32,pages.destroy,8,"Delete Pages","Delete Pages",1
+33,contactus.index,9,"List Contact Us","List Contact Us Record",1
+34,contactus.create,9,"Create Contact Us","Create Contact Us Record",1
+35,contactus.show,9,"View Contact Us","View Contact Us Record",1
+36,contactus.edit,9,"Edit Contact Us","Edit Contact Us Record",1
+37,contactus.destroy,9,"Delete Contact Us","Delete Contact Us Record",1
+38,notifications.index,10,"List Notification","List Notification",1
+39,notifications.create,10,"Create Notification","Create Notification",1
+40,notifications.show,10,"View Notification","View Notification",1
+41,notifications.edit,10,"Edit Notification","Edit Notification",1
+42,notifications.destroy,10,"Delete Notification","Delete Notification",1
+43,menus.index,11,"List Menu","List Menu",1
+44,menus.create,11,"Create Menu","Create Menu",1
+45,menus.show,11,"View Menu","View Menu",1
+46,menus.edit,11,"Edit Menu","Edit Menu",1
+47,menus.destroy,11,"Delete Menu","Delete Menu",1
+48,settings.index,12,Settings,"Index Settings",0
+49,settings.create,12,Settings,"Create Settings",0
+50,settings.show,12,Settings,"Show Settings",0
+51,settings.edit,12,Settings,"Edit Settings",0
+52,settings.destroy,12,Settings,"Destroy Settings",0
+projects.index,13,Projects,"Index Projects",0
+projects.create,13,Projects,"Create Projects",0
+projects.show,13,Projects,"Show Projects",0
+projects.edit,13,Projects,"Edit Projects",0
+projects.destroy,13,Projects,"Destroy Projects",0
+descriptions.index,14,Descriptions,"Index Descriptions",0
+descriptions.create,14,Descriptions,"Create Descriptions",0
+descriptions.show,14,Descriptions,"Show Descriptions",0
+descriptions.edit,14,Descriptions,"Edit Descriptions",0
+descriptions.destroy,14,Descriptions,"Destroy Descriptions",0
+project-types.index,15,"Project Types","Index Project Types",0
+project-types.create,15,"Project Types","Create Project Types",0
+project-types.show,15,"Project Types","Show Project Types",0
+project-types.edit,15,"Project Types","Edit Project Types",0
+project-types.destroy,15,"Project Types","Destroy Project Types",0
+project-attributes.index,16,"Project Attributes","Index Project Attributes",0
+project-attributes.create,16,"Project Attributes","Create Project Attributes",0
+project-attributes.show,16,"Project Attributes","Show Project Attributes",0
+project-attributes.edit,16,"Project Attributes","Edit Project Attributes",0
+project-attributes.destroy,16,"Project Attributes","Destroy Project Attributes",0
+questions.index,17,Questions,"Index Questions",0
+questions.create,17,Questions,"Create Questions",0
+questions.show,17,Questions,"Show Questions",0
+questions.edit,17,Questions,"Edit Questions",0
+questions.destroy,17,Questions,"Destroy Questions",0
+expertises.index,18,Expertises,"Index Expertises",0
+expertises.create,18,Expertises,"Create Expertises",0
+expertises.show,18,Expertises,"Show Expertises",0
+expertises.edit,18,Expertises,"Edit Expertises",0
+expertises.destroy,18,Expertises,"Destroy Expertises",0
+budgets.index,19,Budgets,"Index Budgets",0
+budgets.create,19,Budgets,"Create Budgets",0
+budgets.show,19,Budgets,"Show Budgets",0
+budgets.edit,19,Budgets,"Edit Budgets",0
+budgets.destroy,19,Budgets,"Destroy Budgets",0
+categories.index,20,Categories,"Index Categories",0
+categories.create,20,Categories,"Create Categories",0
+categories.show,20,Categories,"Show Categories",0
+categories.edit,20,Categories,"Edit Categories",0
+categories.destroy,20,Categories,"Destroy Categories",0
+orders.index,21,Orders,"Index Orders",0
+orders.create,21,Orders,"Create Orders",0
+orders.show,21,Orders,"Show Orders",0
+orders.edit,21,Orders,"Edit Orders",0
+orders.destroy,21,Orders,"Destroy Orders",0
+customers.index,22,Customers,"Index Customers",0
+customers.create,22,Customers,"Create Customers",0
+customers.show,22,Customers,"Show Customers",0
+customers.edit,22,Customers,"Edit Customers",0
+customers.destroy,22,Customers,"Destroy Customers",0
